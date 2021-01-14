@@ -3,10 +3,14 @@ links:
     fa: fas fa-phone-volume
     url: tel:+13105600319
     joke: she does that too.
-    flava: |-
+    flava: >-
       # ! this is the best way to get a hold of me. 
 
-      [but leave a voice-mail. i screen most of my calls.]
+
+      ---
+
+
+      but leave a voice-mail. i screen most of my calls cause my digits are all over the internet.
   - title: text-me
     fa: far fa-comment
     url: sms:+13105600319
@@ -16,34 +20,34 @@ links:
     fa: fab fa-instagram
     url: https://www.instagram.com/okpebbs/
     joke: yeah you better, cause i'm already in her DMs.
-    flava: eat-my-ass
+    flava: "lol: i use this sometimes."
   - title: whatsapp-me
     fa: https://wa.me/13105600319
     url: https://www.youtube.com/channel/UCM0Da0DogPcmc6FsALPCXLA
     joke: The most boring place on earth. (work-in-progress)
-    flava: eat-my-ass
+    flava: i never use this, but i get notifications.
   - title: email-me
     fa: fas fa-at
     url: mailto:letsgo@okpebbs.com
     joke: this is how got that thing she sent me.
-    flava: eat-my-ass
+    flava: my preferred medium of sorts. just wish it supported markdown :D
   - title: tweet-me
     fa: fab fa-twitter
     url: https://twitter.com/messages/compose?recipient_id=1151066142691119106
     joke: ok, i'm running out of "your-mom-jokes."
-    flava: eat-my-ass
+    flava: i get notifications for this.
   - title: facebook-message-me
     fa: fab fa-facebook-messenger
     url: https://m.me/okpebbs
     joke: Check out all my *cool* photos
-    flava: eat-my-ass
+    flava: same. same.
   - title: telegram-me
     fa: fab fa-telegram-plane
     url: https://t.me/okpebbs
     joke: Check out all my *cool* photos
-    flava: eat-my-ass
+    flava: i turned off notifications for this.
   - title: git-me
     fa: fab fa-github-alt
     url: https://github.com/okpebbs
     joke: tell me to stop forking your repository(/mom) 😂
-    flava: eat-my-ass
+    flava: doubt i'll see you here.
