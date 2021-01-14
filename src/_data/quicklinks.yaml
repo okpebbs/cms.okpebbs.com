@@ -1,7 +1,7 @@
 links:
   - title: bookings
     url: https://okpebbs.as.me/
-    desc: Bookings through Acuity Scheduling.
+    desc: CHEAP/FREE photography session Bookings through Acuity Scheduling.
   - title: photos
     url: https://photos.okpebbs.com/
     desc: Check out all my *cool* photos
@@ -14,6 +14,9 @@ links:
   - title: essential-worker-slush-fund
     url: https://gum.co/kGjGO?wanted=true
     desc: A quick gumroad powered donation page setup to provide funding for local essential workers.
+  - title: service-worker-slush-fund
+    url: https://gum.co/izkpg?wanted=true
+    desc: Another gumroad powered donation page but this one is for those working in the service industry.
   - title: black-lives-matter-carrd
     url: https://blacklivesmatters.carrd.co/
     desc: blacklivesmatter carrd.
@@ -23,3 +26,6 @@ links:
   - title: equal-justice-initiative
     url: https://eji.org/
     desc: Make Postive Change.
+  - title: delete-facebook
+    url: https://deletefacebook.com/
+    desc: If you wanna.
