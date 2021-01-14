@@ -1,45 +1,47 @@
 links:
-  - title: text-me
-    fa: far fa-comment
-    url: https://my.indeed.com/p/jasonp-0cql0mz
-    joke: like your mom does.
-
   - title: call-me
     fa: fas fa-phone-volume
-    url: https://okpebbs.as.me/
+    url: tel:+13105600319
     joke: she does that too.
-
+    flava: "! this is the best way to get a hold of me. [but leave a voice-mail. i
+      screen most of my calls.]"
+  - title: text-me
+    fa: far fa-comment
+    url: sms:+13105600319
+    joke: like your mom does.
+    flava: "! this is good too."
   - title: instagram-me
     fa: fab fa-instagram
-    url: https://photos.okpebbs.com/
+    url: https://www.instagram.com/okpebbs/
     joke: yeah you better, cause i'm already in her DMs.
-
+    flava: eat-my-ass
   - title: whatsapp-me
-    fa: fab fa-whatsapp
+    fa: https://wa.me/13105600319
     url: https://www.youtube.com/channel/UCM0Da0DogPcmc6FsALPCXLA
     joke: The most boring place on earth. (work-in-progress)
-
+    flava: eat-my-ass
   - title: email-me
     fa: fas fa-at
-    url: https://photos.okpebbs.com/
+    url: mailto:letsgo@okpebbs.com
     joke: this is how got that thing she sent me.
-
+    flava: eat-my-ass
   - title: tweet-me
     fa: fab fa-twitter
-    url: https://photos.okpebbs.com/
+    url: https://twitter.com/messages/compose?recipient_id=1151066142691119106
     joke: ok, i'm running out of "your-mom-jokes."
-
+    flava: eat-my-ass
   - title: facebook-message-me
     fa: fab fa-facebook-messenger
-    url: https://photos.okpebbs.com/
+    url: https://m.me/okpebbs
     joke: Check out all my *cool* photos
-
+    flava: eat-my-ass
   - title: telegram-me
     fa: fab fa-telegram-plane
-    url: https://photos.okpebbs.com/
+    url: https://t.me/okpebbs
     joke: Check out all my *cool* photos
-
+    flava: eat-my-ass
   - title: git-me
     fa: fab fa-github-alt
-    url: https://photos.okpebbs.com/
+    url: https://github.com/okpebbs
     joke: tell me to stop forking your repository(/mom) 😂
+    flava: eat-my-ass
