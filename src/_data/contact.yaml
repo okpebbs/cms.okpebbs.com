@@ -3,8 +3,10 @@ links:
     fa: fas fa-phone-volume
     url: tel:+13105600319
     joke: she does that too.
-    flava: "! this is the best way to get a hold of me. [but leave a voice-mail. i
-      screen most of my calls.]"
+    flava: |-
+      # ! this is the best way to get a hold of me. 
+
+      [but leave a voice-mail. i screen most of my calls.]
   - title: text-me
     fa: far fa-comment
     url: sms:+13105600319
