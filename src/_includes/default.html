@@ -11,7 +11,7 @@
       <meta name="description" content="{{description}}"/>
     {% endif %}
     {% block head %}{% endblock %}
-    <link rel="preload;stylesheet" type="text/css" href="/static/css/style.css"/>
+    <link rel="stylesheet" rel="preload" type="text/css" href="/static/css/style.css"/>
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
@@ -23,12 +23,12 @@
 
     {% include "./partials/footer.html" %}
 
-    <script src="/static/js/alpine.js"></script>
+    <script src="/static/js/alpine.js" async></script>
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->
       <!-- Needed only if you are using Netlify Identity feature -->
-      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
     {% endif %}
 
   </body>
