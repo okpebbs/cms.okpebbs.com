@@ -47,7 +47,7 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
+      - label: "quick-links"
         name: "links"
         file: "src/_data/quicklinks.yaml"
         fields:
@@ -59,6 +59,20 @@ collections:
               - { label: Title, name: title, widget: string }
               - { label: URL, name: url, widget: string }
               - { label: Description, name: desc, widget: string }
+      - label: "contact-links"
+        name: "contact-links"
+        file: "src/_data/contact.yaml"
+        fields:
+          - label: contact-links
+            name: links
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Title, name: fa, widget: string }
+              - { label: URL, name: url, widget: string }
+              - { label: Joke, name: joke, widget: string }
+              - { label: Flavor-text, name: flava, widget: string }
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
