@@ -1,0 +1,20 @@
+<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-top-4 gap my-8 px-4 lg:mx-0">
+
+    {% if contact.links %}
+
+        {% for item in contact.links %}
+            <a href="{{item.url}}" target="_blank" class="p-5 border border-gray-200 hover:border-purple-400">
+                <h3><i class="{{item.fa}}"></i> {{item.title}}
+                    →</h3>
+                <p><small>{{item.joke}}<small></p>
+
+            </a>
+            <div class="w-full d-block mb-4 bg-black font-family-mono text-align-right"><code class="font-black bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-pink-500"> test</code></div>
+        {% endfor %}
+
+    {% endif %}
+    {% if path == "contact" %}
+      <script src="https://kit.fontawesome.com/2ab68faf64.js" crossorigin="anonymous" async></script>
+    {% endif %}
+
+</div>
