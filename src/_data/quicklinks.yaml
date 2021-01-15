@@ -1,7 +1,11 @@
 links:
+  - title: 🤙 hit-me-up
+    url: "#hit-me-up"
+    desc: It's what all the cool kids *aren't* doing.
   - title: 📗 bookings
     url: https://okpebbs.as.me/
-    desc: FREE (or cheap... or really expensive!) "pay-what-you-want" photography session Bookings through Acuity Scheduling.
+    desc: FREE (or cheap... or really expensive!) "pay-what-you-want" photography
+      session Bookings through Acuity Scheduling.
   - title: 📸 photos
     url: https://photos.okpebbs.com/
     desc: Check out all my *cool* photos
@@ -16,10 +20,12 @@ links:
     desc: Hire me... or just view my resume on Indeed.com
   - title: 🩺 essential-worker-slush-fund
     url: https://gum.co/kGjGO?wanted=true
-    desc: A quick gumroad powered donation page setup to provide funding for local essential workers.
+    desc: A quick gumroad powered donation page setup to provide funding for local
+      essential workers.
   - title: 👩‍🍳 service-worker-slush-fund
     url: https://gum.co/izkpg?wanted=true
-    desc: Another gumroad powered donation page but this one is for those working in the service industry.
+    desc: Another gumroad powered donation page but this one is for those working in
+      the service industry.
   - title: ✊🏿 black-lives-matter-carrd
     url: https://blacklivesmatters.carrd.co/
     desc: blacklivesmatter carrd.
