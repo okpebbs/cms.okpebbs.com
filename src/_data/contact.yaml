@@ -4,7 +4,7 @@ links:
     url: tel:+13105600319
     joke: like your mom does.
     flava: >-
-      # ! this is the best way to get a hold of me. 
+      # ! this is the best way to get a hold of me.
 
 
       ---
@@ -39,7 +39,7 @@ links:
   - title: facebook-message-me
     fa: fab fa-facebook-messenger
     url: https://m.me/okpebbs
-    joke: this is how i hit up your grandma.
+    joke: this is how i hit up your-grandma.
     flava: same. same.
   - title: telegram-me
     fa: fab fa-telegram-plane
@@ -49,5 +49,5 @@ links:
   - title: git-me
     fa: fab fa-github-alt
     url: https://github.com/okpebbs
-    joke: when you wanna tell me to stop forking your repository... / mom 😂
+    joke: when you wanna tell me to stop forking your repository/mom... 😂
     flava: doubt i'll see you here.
