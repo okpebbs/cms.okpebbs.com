@@ -35,7 +35,7 @@ I'm really thankful for my experiences in life thus far: but I'm happy to have c
 
 I picked up a new camera, Christmas of **2016**. Since then (**2021**), I've shot over 50000 photos and rendered/published about ~75000 variants to my site.
 
-> ## [1,768,451 photo-views](https://docs.google.com/spreadsheets/d/1Jd6Ah9PDi6b3dCTaGuXp2dL19wv-Y-LdOXOi3e7h7uc/edit?usp=sharing)
+> ### [1,768,451 photo-views](https://docs.google.com/spreadsheets/d/1Jd6Ah9PDi6b3dCTaGuXp2dL19wv-Y-LdOXOi3e7h7uc/edit?usp=sharing)
 > 2020-01-14 to 2021-01-14.
 
 #### 1. I spent my first year toiling, getting to know my camera, and piddling around with different software.
@@ -123,6 +123,6 @@ When you analyze human history, there's a minimal degree of actual separation be
 >>> ### How do you want to be remembered?
 >>>>>>>>>> ### How do you want your loved ones to be remembered?
 
-### `` (your)journey=(our)journey</span> ``
-[ YOU DON'T HAVE TO GO IT ALONE ]
+`` (your)journey=(our)journey;
+ YOU-DON'T-HAVE-TO-GO-IT-ALONE ``
 </div>
