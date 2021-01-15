@@ -31,8 +31,15 @@ path: home
     <abbr title="world's okayest...line-cook,photographer, front-end-guy, knife-sharpener, designer.">IT'S DANGEROUS OUT THERE!</abbr>
     Take this: <a href="https://okpebbs.com/#secret-link" target="blank" style="font-size:3em"><code class="bg-gray-100" style="border-style:dotted; border-width:5px;">🍌</code></a>
   </p>
-  {% include "./_includes/partials/contact.html" %}
+  <script>
+  var content = document.getElementById("sleepy");
+  content.style.display="none";
+  setTimeout(function(){
+    content.style.display="block";
+  }, 5000);
+</script>
+  <div id="sleepy">{% include "./_includes/partials/contact.html" %}
 
     <script src="https://kit.fontawesome.com/2ab68faf64.js" crossorigin="anonymous" defer></script>
-
+</div>
 </div>
