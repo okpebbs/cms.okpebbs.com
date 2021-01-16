@@ -23,7 +23,11 @@
   },
   "dependencies": {
     "autoprefixer": "^10.1.0",
+    "clean-css": "^4.2.3",
+    "cssesc": "^3.0.0",
     "eleventy-plugin-seo": "^0.5.1",
-    "postcss": "^8.2.1"
+    "lozad": "^1.16.0",
+    "postcss": "^8.2.1",
+    "snarkdown": "^2.0.0"
   }
 }
