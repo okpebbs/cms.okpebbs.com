@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.1.0",
+    "eleventy-plugin-seo": "^0.5.1",
     "postcss": "^8.2.1"
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: 20210114-hello-world.md
-description: about me and stuff
+description: about-me-and-stuff
 author: okpebbs
 date: 2021-01-15T04:31:49.493Z
 tags:
@@ -38,13 +38,13 @@ I picked up a new camera, Christmas of **2016**. Since then (**2021**), I've sho
 > ### [1,768,451 photo-views](https://docs.google.com/spreadsheets/d/1Jd6Ah9PDi6b3dCTaGuXp2dL19wv-Y-LdOXOi3e7h7uc/edit?usp=sharing)
 > 2020-01-14 to 2021-01-14.
 
-#### 1. I spent my first year toiling, getting to know my camera, and piddling around with different software.
+*  I spent my first year toiling, getting to know my camera, and piddling around with different software.
 
-### 2. I spent my second year whittling away hours in open-source workflows.
+*  I spent my second year whittling away hours in open-source workflows.
 
-## 3. Most recently, I've been refining my composition (lighting, depth, framing, posing, expression, etc.), workflow, and portraiture.
+* Most recently, I've been refining my composition (lighting, depth, framing, posing, expression, etc.), workflow, and portraiture.
 
-# 4. As of now, (2020-12-26) I'm working on pricing tables, setting up booking/invoicing, and developing marketing strategies.
+* As of now, (2020-12-26) I'm working on pricing tables, setting up booking/invoicing, and developing marketing strategies.
 
 ---
 <h1 class="text-right">agenda</h1>
