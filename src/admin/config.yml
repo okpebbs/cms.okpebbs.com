@@ -21,15 +21,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "author", name: "author", widget: "string" }
+      - { label: "publish-date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
+      - widget: string
         label: "tags"
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "meta", "photography", "life", "geekdom",]
+        # options: ["Tags", "meta", "photography", "life", "geekdom",]
   - label: "Settings"
     name: "settings"
     editor:

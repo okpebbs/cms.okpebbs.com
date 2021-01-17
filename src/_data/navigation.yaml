@@ -1,6 +1,6 @@
 items:
   - text: about
-    url: "/posts/20210114-hello-world-md/"
+    url: "/about"
   # - text: local
   #   url: "/local"
   - text: posts

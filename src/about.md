@@ -7,6 +7,8 @@ tags:
   - life
   - photography
   - meta
+layout: posts
+prism: true
 ---
 # history
 
@@ -125,4 +127,3 @@ When you analyze human history, there's a minimal degree of actual separation be
 
 `` (your)journey=(our)journey;
  YOU-DON'T-HAVE-TO-GO-IT-ALONE ``
-</div>
