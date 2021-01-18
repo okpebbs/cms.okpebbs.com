@@ -10,6 +10,31 @@ tags:
 layout: posts
 prism: true
 ---
+<h1>world's okayest...</h1>
+
+## line-cook,<br>
+## photographer,<br>
+## front-end-guy,<br>
+## knife-sharpener,<br>
+## designer.
+
+<small><i>
+there's a lot of people whom can do, <br>
+**some** of the things that i can do, better. <br>
+but probably very few that can do, <br>
+**all** of the things i can do, better. <br>
+<u>i'm okay, with being ok.</u></i></small>
+<p style="text-align:right">
+<small><i>haiku:<br>
+everything’s okay,<br>
+we’re all gonna die some day,<br>
+like the dinosaurs.</i>
+</p>
+
+---
+---
+---
+
 # history
 
 ## I've known that I wanted to be a photographer from the age of 8 (1994).
